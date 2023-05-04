@@ -16,7 +16,7 @@ import java.util.Map;
 
 @RestController
 //@CrossOrigin(origins = "http://localhost:4200")
-@CrossOrigin(origins = {"http://localhost:4200", "http://www.rfegolf.es/PaginasServicios/ServicioHandicap.aspx"})
+@CrossOrigin(origins = {"https://tfg-golf.web.app", "http://www.rfegolf.es/PaginasServicios/ServicioHandicap.aspx"})
 
 public class UserController {
 
